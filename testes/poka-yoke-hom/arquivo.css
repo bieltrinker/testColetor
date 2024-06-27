@@ -1,0 +1,58 @@
+label.radio-inline{
+    text-decoration: white;
+    border-radius: 5px;
+    border-color: aqua;
+    margin-right:40px; 
+    margin-top: 10px;
+    font-size: 18;
+    font-weight: bold;
+    background-color: rgb(1, 1, 70);
+    border: 2px;
+    color: white;
+    margin: 10px;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    vertical-align: center
+    
+ }
+ input.ele{
+    width: 10cm;
+    height: 1.6cm;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 17
+ }
+ input.can{
+    width: 10cm;
+    height: 1.6cm;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 1cm;
+    text-align: center;
+    font-size: 17
+ }
+ div.lab{
+    background-color: white;
+    width: 1150px;
+    height: 60px;
+ }
+
+ select.sel{
+    width: 10cm;
+    height: 1.6cm;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 1cm;
+    text-align: center;
+    font-size: 17
+ }
+
+ button.butt{
+    font-size:18;
+    color: black;
+    height: 45px;
+    border:none;
+    border-radius: 5px
+
+ }
